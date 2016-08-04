@@ -1,0 +1,52 @@
+_repo: Twilight-Stories_594
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+  - agent_name: Miller, Francis Trevelyan
+    alias: Miller, Francis T.
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '309'
+    url: http://www.gutenberg.org/2009/agents/309
+  - agent_name: Powelson, Amy Therese, Mrs.
+    gutenberg_agent_id: '310'
+    url: http://www.gutenberg.org/2009/agents/310
+  - agent_name: Coolidge, Susan
+    alias: Woolsey, Sarah Chauncey
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '1508'
+    url: http://www.gutenberg.org/2009/agents/1508
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
+description: ''
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcsh 'Children''s literature'
+- !lcsh 'Poetry'
+- GITenberg
+tableOfContents: 'Christmas day -- The only woman in the town -- The conquest of Fairyland
+  -- Kentucky Belle -- Prophecies -- Why he was whipped -- "Apples Finkey": the water-boy
+  -- The soldier''s reprieve -- Little brown thrushes -- The story of the empty sleeve
+  -- Facing the world -- Robert of Lincoln -- "Dixie" and "Yankee Doodle" -- The barefoot
+  boy -- Babouscka -- Daisies -- Driving home the cows -- The baby''s kiss -- The
+  lost diamond snuff box -- The American flag -- Aunt Polly Shedd''s brigade -- Corinne''s
+  musicale -- Barbara Frietchie -- Sheridan''s ride -- The children''s hour -- Caryl''s
+  plum -- Our two opinions.'
+title: Twilight Stories
+url: http://www.gutenberg.org/ebooks/594
